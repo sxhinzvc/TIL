@@ -1,4 +1,4 @@
-baseurl = "https://sxhinzvc.github.io/TIL"
+baseurl = "https://sxhinzvc.github.io/TIL/"
 languageCode = "en-us"
 title = "TIL"
 theme = "hugo-lithium"
