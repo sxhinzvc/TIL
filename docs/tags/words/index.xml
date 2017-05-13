@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Words on TIL</title>
+    <link>http://sxhinzvc.github.io/tags/words/</link>
+    <description>Recent content in Words on TIL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://sxhinzvc.github.io/tags/words/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>first post</title>
+      <link>http://sxhinzvc.github.io/blog/firstpost/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://sxhinzvc.github.io/blog/firstpost/</guid>
+      <description>omg the layout is all messed up</description>
+    </item>
+    
+  </channel>
+</rss>
