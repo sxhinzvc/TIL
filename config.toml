@@ -1,6 +1,6 @@
 baseurl = "https://sxhinzvc.github.io/TIL/"
 languageCode = "en-us"
-title = "TIL"
+title = "today I learned"
 theme = "hugo-lithium"
 publishDir = "docs"
 
@@ -9,14 +9,11 @@ publishDir = "docs"
     page = "/:title/"
 
 [[menu.main]]
-    name = "About"
+    name = "about"
     url = "/about/"
 [[menu.main]]
-    name = "GitHub"
-    url = ""
-[[menu.main]]
-    name = "Twitter"
-    url = ""
+    name = "github"
+    url = "https://github.com/sxhinzvc"
 
 [params]
     description = ""
