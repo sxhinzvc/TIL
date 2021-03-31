@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on today I learned</title>
+    <title>Categories on today i learned</title>
     <link>https://sxhinzvc.github.io/TIL/categories/</link>
-    <description>Recent content in Categories on today I learned</description>
+    <description>Recent content in Categories on today i learned</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>julia lee</copyright>
+    <lastBuildDate>Thu, 11 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sxhinzvc.github.io/TIL/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,7 +22,7 @@
     </item>
     
     <item>
-      <title>Golang</title>
+      <title>golang</title>
       <link>https://sxhinzvc.github.io/TIL/categories/golang/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       

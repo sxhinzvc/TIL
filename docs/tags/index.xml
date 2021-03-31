@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on today I learned</title>
+    <title>Tags on today i learned</title>
     <link>https://sxhinzvc.github.io/TIL/tags/</link>
-    <description>Recent content in Tags on today I learned</description>
+    <description>Recent content in Tags on today i learned</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>julia lee</copyright>
+    <lastBuildDate>Thu, 11 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sxhinzvc.github.io/TIL/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Words</title>
+      <title>words</title>
       <link>https://sxhinzvc.github.io/TIL/tags/words/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       

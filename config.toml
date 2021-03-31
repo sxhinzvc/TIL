@@ -1,26 +1,30 @@
 baseurl = "https://sxhinzvc.github.io/TIL/"
 languageCode = "en-us"
-title = "today I learned"
-theme = "hugo-lithium"
+title = "today i learned"
+theme = "cactus"
 publishDir = "docs"
+copyright = "julia lee"
 
 [permalinks]
-    post = "/:year/:month/:day/:title/"
-    page = "/:title/"
+  post = "/:year/:month/:day/:title/"
+  page = "/:title/"
 
 [[menu.main]]
-    name = "about"
-    url = "/about/"
+  name = "posts"
+  url = "/posts/"
 [[menu.main]]
-    name = "github"
-    url = "https://github.com/sxhinzvc"
+  name = "about"
+  url = "/about/"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/sxhinzvc"
+[[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/eejulialee"
 
 [params]
-    description = ""
-
-    [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
-    alt = "Logo"
-
+  description = ""
+  colortheme = "dark"
+  [params.comments]
+    enabled = false

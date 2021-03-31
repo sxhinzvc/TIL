@@ -3,52 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sxhinzvc.github.io/TIL/blog/firstpost/</loc>
-    <lastmod>2017-05-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sxhinzvc.github.io/TIL/blog/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sxhinzvc.github.io/TIL/categories/</loc>
-    <priority>0</priority>
+    <lastmod>2017-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sxhinzvc.github.io/TIL/categories/development/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sxhinzvc.github.io/TIL/blog/firstpost/</loc>
+    <lastmod>2017-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sxhinzvc.github.io/TIL/categories/golang/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sxhinzvc.github.io/TIL/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sxhinzvc.github.io/TIL/tags/words/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sxhinzvc.github.io/TIL/about/</loc>
   </url>
   
   <url>
     <loc>https://sxhinzvc.github.io/TIL/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sxhinzvc.github.io/TIL/tags/words/</loc>
+    <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sxhinzvc.github.io/TIL/about/</loc>
   </url>
   
 </urlset>
